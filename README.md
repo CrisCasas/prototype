@@ -40,7 +40,7 @@ El repositorio incluye:
 ## 👨‍💻 Autores
 
 - **Cristian Casas** – [@CrisCasas](https://github.com/CrisCasas)
-- **Juan Manuel Serrano** 
+- **Juan Manuel Serrano** - [@JuanSerrano](https://github.com/EngJuanSER)
 
 ## 📄 Licencia
 
